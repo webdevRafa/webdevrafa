@@ -1,0 +1,9 @@
+.firstsect {
+    background: #00021c;
+}
+.secsect {
+    background: #00021c;
+}
+.thirdsect {
+    background: linear-gradient(#00021c 20%, #0A60D0 100% );
+}
